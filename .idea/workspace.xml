@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb98e8d2-b99e-4be6-a884-1381b4ac01a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/meituanBox.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devtest.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wyyp5PqrdDPREIdANmjwzd6mwv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/myapp/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb98e8d2-b99e-4be6-a884-1381b4ac01a9" name="Default Changelist" comment="" />
+      <created>1629445303003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629445303003</updated>
+      <workItem from="1629445305449" duration="576000" />
+      <workItem from="1629445986045" duration="4328000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit!">
+      <created>1629446159367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629446159367</updated>
+    </task>
+    <task id="LOCAL-00002" summary="devTest commit!">
+      <created>1629447441512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629447441512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit!" />
+    <MESSAGE value="devTest commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="devTest commit!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="273" key="#test.html" timestamp="1629445695869">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="730" y="273" key="#test.html/0.0.1920.1080@0.0.1920.1080" timestamp="1629445695869" />
+    <state x="555" y="125" key="CommitChangelistDialog2" timestamp="1629447441380">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="125" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1629447441380" />
+    <state x="470" y="179" key="SettingsEditor" timestamp="1629450168026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="470" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1629450168026" />
+  </component>
+</project>
