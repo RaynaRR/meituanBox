@@ -1,10 +1,37 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 // import Home from '../views/Home.vue'
+import Home from "../views/Home";
+import Mine from "../views/Mine";
+import Test1 from "../views/Test1";
+import Error from "../views/Error";
 
 Vue.use(VueRouter)
 
 const routes = [
+  {
+    path: '/home',
+    name: 'home',
+    component: Home,
+    children:[
+      {
+        path: 'test1',
+        component: Test1
+      }
+    ]
+  },
+  {
+    path: '/mine',
+    component: Mine
+    // 通过路径跳转传参：
+    // path: '/mine/:name/:age',
+    // component: Mine
+  },
+  {
+    path: '/*',
+    component: Error
+  }
+
   // {
   //   path: '/',
   //   name: 'Home',
@@ -22,6 +49,7 @@ const routes = [
 
 const router = new VueRouter({
   mode: 'history',
+  // mode: 'hash',
   base: process.env.BASE_URL,
   routes
 })

@@ -2,19 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb98e8d2-b99e-4be6-a884-1381b4ac01a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/meituanBox.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/devtest.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.vue" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/src/assets/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/src/assets/js/rem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/src/views/Error.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/src/views/Mine.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/src/views/Test1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/views/Home.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,7 +37,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1wyyp5PqrdDPREIdANmjwzd6mwv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,8 +49,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myapp/src/assets/js" />
+      <recent name="$PROJECT_DIR$/myapp/src/assets/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -68,7 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629445303003</updated>
       <workItem from="1629445305449" duration="576000" />
-      <workItem from="1629445986045" duration="4328000" />
+      <workItem from="1629445986045" duration="4491000" />
+      <workItem from="1629504651474" duration="8993000" />
     </task>
     <task id="LOCAL-00001" summary="test commit!">
       <created>1629446159367</created>
@@ -84,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629447441512</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit!">
+      <created>1629451413013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629451413013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit!">
+      <created>1629451456697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629451456697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,20 +129,41 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit!" />
     <MESSAGE value="devTest commit!" />
-    <option name="LAST_COMMIT_MESSAGE" value="devTest commit!" />
+    <MESSAGE value="first commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit!" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1158" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629508486442">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1158" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1629508486442" />
     <state x="730" y="273" key="#test.html" timestamp="1629445695869">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="730" y="273" key="#test.html/0.0.1920.1080@0.0.1920.1080" timestamp="1629445695869" />
-    <state x="555" y="125" key="CommitChangelistDialog2" timestamp="1629447441380">
+    <state x="555" y="125" key="CommitChangelistDialog2" timestamp="1629451456569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="125" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1629447441380" />
-    <state x="470" y="179" key="SettingsEditor" timestamp="1629450168026">
+    <state x="555" y="125" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1629451456569" />
+    <state width="934" height="288" key="GridCell.Tab.0.bottom" timestamp="1629513129692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="470" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1629450168026" />
+    <state width="934" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1629513129692" />
+    <state width="934" height="288" key="GridCell.Tab.0.center" timestamp="1629513129691">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="934" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1629513129691" />
+    <state width="934" height="288" key="GridCell.Tab.0.left" timestamp="1629513129690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="934" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1629513129690" />
+    <state width="934" height="288" key="GridCell.Tab.0.right" timestamp="1629513129691">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="934" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1629513129691" />
+    <state x="932" y="153" key="SettingsEditor" timestamp="1629512089312">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="932" y="153" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1629512089312" />
   </component>
 </project>
